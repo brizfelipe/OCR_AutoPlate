@@ -29,6 +29,7 @@ OCR_AutoPlate/
 │   └── utils/
 │
 ├── app/
+|   ├── main.py
 │
 ├── .gitignore
 ├── requirements.txt
